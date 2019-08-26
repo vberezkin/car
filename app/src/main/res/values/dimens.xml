@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="car_width">20dp</dimen>
+  <dimen name="car_length">40dp</dimen>
+  <dimen name="car_stroke_width">3dp</dimen>
+  <dimen name="route_width">3dp</dimen>
+  <dimen name="route_radius">100dp</dimen>
+  <dimen name="speed">200dp</dimen>
+</resources>
